@@ -1,0 +1,23 @@
+[
+  {
+    "dataItemID": "SystemA",
+    "dataTypeID": "system",
+    "fields": {
+      "name": "System A"
+    }
+  },
+  {
+    "dataItemID": "SystemB",
+    "dataTypeID": "system",
+    "fields": {
+      "name": "System B"
+    }
+  },
+  {
+    "dataItemID": "SystemC",
+    "dataTypeID": "system",
+    "fields": {
+      "name": "System C"
+    }
+  }
+]
