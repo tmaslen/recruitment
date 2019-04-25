@@ -28,6 +28,6 @@ Do think about:
 Don't worry about:
 
  * Knowing everything (Google is your friend)
- * Unit testing (unless you've ran out of something to do)
+ * Unit testing (unless you've ran out of something to do or you want to drive the session via TDD)
 
 The exercise is timeboxed to 1 hour.
